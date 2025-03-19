@@ -1,5 +1,7 @@
 # Gest - Projeto Interdisciplinar I
 
+![image](/PROFILE/gestLogo.png)
+
 Bem-vindo à organização do **Gest**. Neste espaço, estamos desenvolvendo um aplicativo inovador para a gestão condominial, visando aprimorar a comunicação entre síndicos, moradores e administradores, além de otimizar processos administrativos.
 
 ## 📌 Sobre o projeto
