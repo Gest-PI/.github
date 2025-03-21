@@ -42,4 +42,4 @@ O projeto será desenvolvido com as seguintes tecnologias:
 
 ## 🖼️ Processamento de Imagens
 
-O aplicativo contará com um módulo de inteligencia artificial para o processamento de imagens, utiliznado técnicas de OCR (Optical Character Recognition). Este recurso permitirá a leitura e extração automática de informações relevantes a partir de imagens de *Leitores* para otimizar o fluxo de dados coletados, auxiliando na gestão dentro do aplicativo.
+O aplicativo contará com um módulo de inteligencia artificial para o processamento de imagens, utilizando técnicas de OCR (Optical Character Recognition). Este recurso permitirá a leitura e extração automática de informações relevantes a partir de imagens de *Leitores* para otimizar o fluxo de dados coletados, auxiliando na gestão dentro do aplicativo.
